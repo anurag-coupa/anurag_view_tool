@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AnuragViewTool::Renderer.copyright 'Anurag Bhaskar', 'All Rights Reserved'
+```
 
 ## Development
 
